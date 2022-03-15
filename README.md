@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I'm <a href="https://t.me/DelinMoran" target="_blank">Denis</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Student in Southern Federal University🏢</h3>
+<h3 align="center">Student of Southern Federal University🏢</h3>
 
 ___
 
