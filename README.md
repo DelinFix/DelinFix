@@ -6,9 +6,9 @@ ___
 
 ### I`m a junior web-developer!
 - :pushpin: I’m coding on HTML+CSS+JS+Bootstrap.
-- :books: Now I’m learning React, Redux, MySQL.
+- :books: Now I’m learning React, MySQL.
 - :art: I can make a web design and logo for a website.
-- :hammer: Also work with: PHP, Ajax, jQuery, SASS/SCSS.
+- :hammer: Also work with: PHP, Ajax, jQuery, SASS/SCSS, Redux/Saga, TypeScript.
 - :alarm_clock: More than a year of experience in development
 
 ___
