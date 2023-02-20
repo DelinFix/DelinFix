@@ -5,8 +5,8 @@
 ___
 
 ### I`m a junior web-developer!
-- :pushpin: I’m coding on TypeScript+React+Redux/Apollo.
-- :books: Now I’m learning React.
+- :pushpin: I’m coding on TypeScript+React+Redux or Vue+Vuex.
+- :books: Now I’m learning Vue.
 - :art: I can make a web design and logo for a website.
 - :hammer: Also work with: Apollo, GraphQL, Storybook, Redux/Saga, TypeScript.
 - :alarm_clock: More than a year of experience in development
