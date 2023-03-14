@@ -4,17 +4,12 @@
 
 ___
 
-### I`m a junior web-developer!
+### I`m a web-developer!
 - :pushpin: I’m coding on TypeScript+React+Redux or Vue+Vuex.
 - :books: Now I’m learning Vue.
 - :art: I can make a web design and logo for a website.
-- :hammer: Also work with: Apollo, GraphQL, Storybook, Redux/Saga, TypeScript.
+- :hammer: Also work with: Apollo, GraphQL, Storybook, Next JS, Jest, Docker.
 - :alarm_clock: More than a year of experience in development
-
-___
-<!-- &theme=dracula -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DelinFix&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+stude)](https://git.io/typing-svg) -->
 
 ___
 
