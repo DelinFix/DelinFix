@@ -10,7 +10,9 @@ ___
 - :art: I can make a web design and logo for a website.
 - :hammer: Also work with: Apollo, GraphQL, Storybook, Next JS, Jest, Docker.
 - :alarm_clock: More than a year of experience in development
+___
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DelinFix&layout=compact&theme=tokyonight)
 ___
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DelinMoran)
