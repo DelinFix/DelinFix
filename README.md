@@ -12,7 +12,8 @@ ___
 - :alarm_clock: More than a year of experience in development
 ___
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DelinFix&layout=compact&theme=tokyonight)
+<img alt="CodeStats" src="https://github-readme-stats-delinfix.vercel.app/api/top-langs/?username=DelinFix&layout=compact&theme=tokyonight" />
+
 ___
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DelinMoran)
